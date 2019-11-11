@@ -199,7 +199,7 @@ namespace Monsters
 
 
 
-            DisplayContinuePrompt();
+            DisplayContinuePrompt( );
         }
 
         static void MonsterInfo(Monster monster)
